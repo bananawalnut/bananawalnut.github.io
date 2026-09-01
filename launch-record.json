@@ -1,7 +1,7 @@
 {
   "schema": "neal.public-record/v1",
   "sourceSchema": "neal.launch-control/v1",
-  "status": "pre_launch",
+  "status": "launched",
   "token": {
     "name": "Neal the Seal",
     "symbol": "NEAL",
@@ -27,8 +27,8 @@
     "mayhemMode": false
   },
   "execution": {
-    "mintAddress": null,
-    "creationTransaction": null
+    "mintAddress": "8JBYSxrFRMf1Y4NcbjyEsxGPFe4AXzHXELmXh4WYDCBE",
+    "creationTransaction": "3iP9Gza1xtgAiNAdEwJz7TdV3n3VsLuNkYvFmRhWnditqN2R95r7FaU83TMSEhpjGbgNrf1YF1FKPSJ23a7onDBh"
   },
   "programs": {
     "genesisAllocationAvailable": false,
