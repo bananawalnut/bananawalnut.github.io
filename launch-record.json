@@ -5,6 +5,7 @@
   "token": {
     "name": "Neal the Seal",
     "symbol": "NEAL",
+    "metadataUri": "https://nealtheseal.org/token-metadata.json",
     "description": "One tonne of coastal beef. NEAL turns group-chat chaos into community-cooked quests, streamed submissions, and rewards funded by disclosed buybacks. Lord NEAL seals the deal.",
     "website": "https://nealtheseal.org",
     "socialLinks": []
@@ -24,13 +25,25 @@
     "economics": {
       "devPurchase": {
         "method": "pumpfun_market_buy",
-        "wallet": "GEscvQdeHg1BSBo5XiKK4UskMmU738AhJvtFF4x5uGzv",
+        "wallet": "5p7H68DeSmg7LhRg5PvTph8H8HPsaNHKWboBzsLV39eu",
         "transactions": []
       },
       "questTreasury": {
         "creatorFeeShareBasisPoints": 4200,
         "purchaseMethod": "creator_fee_funded_market_buybacks",
-        "wallet": null,
+        "wallet": "7voXHusYTMQoZgrEJBgheRPYCrG1mhwSpn1voX6r4x3q",
+        "purposes": [
+          "quest_rewards",
+          "open_source_developer_airdrops"
+        ],
+        "openSourceDeveloperAirdrops": {
+          "acquisitionMethod": "market_buy",
+          "maxHoldingsSupplyBasisPoints": 1800,
+          "capMeasurement": "airdrop_earmarked_balance_at_finalized_supply",
+          "capOverrideApproval": "unanimous_neal_holder_approval",
+          "eligibilityPolicyUri": null,
+          "distributions": []
+        },
         "transactions": []
       },
       "creatorFeeRouting": {
@@ -45,12 +58,12 @@
           {
             "role": "dev",
             "shareBasisPoints": 5800,
-            "wallet": "GEscvQdeHg1BSBo5XiKK4UskMmU738AhJvtFF4x5uGzv"
+            "wallet": "5p7H68DeSmg7LhRg5PvTph8H8HPsaNHKWboBzsLV39eu"
           },
           {
             "role": "quest_treasury",
             "shareBasisPoints": 4200,
-            "wallet": null
+            "wallet": "7voXHusYTMQoZgrEJBgheRPYCrG1mhwSpn1voX6r4x3q"
           }
         ]
       }

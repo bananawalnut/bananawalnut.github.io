@@ -1,0 +1,30 @@
+{
+  "name": "Neal the Seal",
+  "symbol": "NEAL",
+  "description": "One tonne of coastal beef. NEAL turns group-chat chaos into community-cooked quests, streamed submissions, and rewards funded by disclosed buybacks. Lord NEAL seals the deal.",
+  "image": "https://nealtheseal.org/neal-token.png",
+  "external_url": "https://nealtheseal.org",
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Tasmania"
+    },
+    {
+      "trait_type": "Launch",
+      "value": "Pump.fun on Solana"
+    },
+    {
+      "trait_type": "Mayhem",
+      "value": "Off"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://nealtheseal.org/neal-token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
