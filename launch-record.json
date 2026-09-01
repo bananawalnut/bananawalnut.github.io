@@ -6,9 +6,19 @@
     "name": "Neal the Seal",
     "symbol": "NEAL",
     "metadataUri": "https://nealtheseal.org/token-metadata.json",
+    "bannerUrl": "https://nealtheseal.org/og-neal-v3.jpg",
     "description": "One tonne of coastal beef. NEAL turns group-chat chaos into community-cooked quests, streamed submissions, and rewards funded by disclosed buybacks. Lord NEAL seals the deal.",
     "website": "https://nealtheseal.org",
-    "socialLinks": []
+    "socialLinks": [
+      {
+        "platform": "website",
+        "url": "https://nealtheseal.org"
+      },
+      {
+        "platform": "github",
+        "url": "https://github.com/bananawalnut/bananawalnut.github.io"
+      }
+    ]
   },
   "launch": {
     "network": "solana",

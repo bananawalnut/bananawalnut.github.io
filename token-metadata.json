@@ -4,6 +4,11 @@
   "description": "One tonne of coastal beef. NEAL turns group-chat chaos into community-cooked quests, streamed submissions, and rewards funded by disclosed buybacks. Lord NEAL seals the deal.",
   "image": "https://nealtheseal.org/neal-token.png",
   "external_url": "https://nealtheseal.org",
+  "showName": true,
+  "createdOn": "https://pump.fun",
+  "website": "https://nealtheseal.org",
+  "github": "https://github.com/bananawalnut/bananawalnut.github.io",
+  "banner": "https://nealtheseal.org/og-neal-v3.jpg",
   "attributes": [
     {
       "trait_type": "Origin",
